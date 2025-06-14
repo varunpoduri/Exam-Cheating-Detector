@@ -45,8 +45,8 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/varunpoduri.git
-   cd Cheating-Surveillance-System
+   git clone https://github.com/varunpoduri/Exam-Cheating-Detector.git
+  
    ```
 2. Install dependencies:
    ```bash
